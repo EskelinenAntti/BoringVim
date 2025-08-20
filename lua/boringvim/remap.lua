@@ -1,9 +1,8 @@
 vim.g.mapleader = " "
-vim.keymap.set("n", "<leader>lsp", "<cmd>LspRestart<cr>")
 vim.keymap.set("n", "<leader>p", "<cmd>Ex<cr>")
 
 -- Format code
-vim.keymap.set("n", "<leader>f", function()
+vim.keymap.set("n", "<leader>l", function()
     require("conform").format({ bufnr = 0 })
 end)
 

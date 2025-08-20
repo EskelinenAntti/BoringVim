@@ -1,10 +1,6 @@
 -- Use block cursor
 vim.opt.guicursor = ""
 
--- Fix the delay
-vim.opt.timeoutlen = 1000
-vim.opt.ttimeoutlen = 0
-
 -- Line numbers
 vim.opt.nu = true
 vim.opt.relativenumber = true
