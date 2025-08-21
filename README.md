@@ -26,7 +26,7 @@ mv ~/.local/state/nvim{,.bak}
 mv ~/.cache/nvim{,.bak}
 ```
 
-3. Clone this repo into:
+3. Clone this repo into your neovim configuration folder:
 
 ```sh
 git clone https://github.com/EskelinenAntti/BoringVim ~/.config/nvim`
