@@ -38,5 +38,5 @@ vim.opt.isfname:append("@-@")
 vim.opt.updatetime = 50
 
 -- Highlight column 80 to guide line length (good for keeping code readable)
-vim.opt.colorcolumn = "80"
+-- vim.opt.colorcolumn = "80"
 vim.opt.termguicolors = true
