@@ -33,7 +33,7 @@ mv ~/.cache/nvim{,.bak}
 3. Clone this repo into your neovim configuration folder:
 
 ```sh
-git clone https://github.com/EskelinenAntti/BoringVim ~/.config/nvim`
+git clone https://github.com/EskelinenAntti/BoringVim ~/.config/nvim
 ```
 
 4. Remove the .git folder, so you can add it to your own repo later:
