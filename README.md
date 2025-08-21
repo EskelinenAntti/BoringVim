@@ -2,7 +2,7 @@
 
 ![Autocomplete in BoringVim](img/autocomplete.png)
 
-- Hand picked and configured Neovim:
+- Hand picked and configured Neovim with essential plugins:
   - Netrw file manager (why not?)
   - Telescope fuzzy finder
   - Lazy.nvim plugin manager
