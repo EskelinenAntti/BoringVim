@@ -1,11 +1,6 @@
 vim.g.mapleader = " "
 vim.keymap.set("n", "<leader>p", "<cmd>Ex<cr>")
 
--- Format code
-vim.keymap.set("n", "<leader>l", function()
-    require("conform").format({ bufnr = 0 })
-end)
-
 -- Quickfix bindings
 vim.keymap.set("n", "<C-j>", "<cmd>cnext<CR>zz")
 vim.keymap.set("n", "<C-k>", "<cmd>cprev<CR>zz")
