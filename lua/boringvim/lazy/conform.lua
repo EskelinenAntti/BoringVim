@@ -1,4 +1,3 @@
-
 return {
 	"stevearc/conform.nvim",
 	opts = {},
@@ -10,6 +9,7 @@ return {
 				javascript = { "prettier" },
 				typescript = { "prettier" },
 				elixir = { "mix" },
+				markdown = { "prettier" },
 			},
 		})
 
