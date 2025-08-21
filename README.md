@@ -1,5 +1,7 @@
 # The Boring Vim
 
+![Autocomplete in BoringVim](img/autocomplete.png)
+
 - Hand picked and configured Neovim:
   - Netrw file manager (why not?)
   - Telescope fuzzy finder
@@ -7,11 +9,7 @@
   - LSP + Tree-sitter + Formatter
   - Nice colors
 
-![Autocomplete in BoringVim](img/autocomplete.png)
-*LSP autocomplete in action*
-
 ![Telescope fuzzy navigation](img/telescope.png)
-*Find files quickly with Telescope fuzzy search*
 
 ## Installation
 
